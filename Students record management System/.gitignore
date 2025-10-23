@@ -1,0 +1,14 @@
+# Ignore build files
+*.exe
+*.obj
+*.o
+/build/
+bin/
+debug/
+release/
+
+# Miscellaneous
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
